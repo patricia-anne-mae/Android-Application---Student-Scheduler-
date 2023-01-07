@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ReturnMain"
+        android:title="Return To Main Screen" />
+    <item
+        android:id="@+id/StartAlert"
+        android:title="Set Start Date Alert" />
+    <item
+        android:id="@+id/EndAlert"
+        android:title="Set End Date Alert" />
+    <item
+        android:id="@+id/ShareNotes"
+        android:title="Share Notes" />
+</menu>

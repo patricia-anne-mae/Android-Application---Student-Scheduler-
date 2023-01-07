@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">C196Project</string>
+    <string name="channel_name">Test Name</string>
+    <string name="channel_description" >Test Description</string>
+    <string name="notify_end">Notify End</string>
+    <string name="notify_start">Notify Start</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="SpinnerStatus">
+        <item>Planned To Take</item>
+        <item>In-Progress</item>
+        <item>Completed</item>
+        <item>Dropped</item>
+    </string-array>
+
+    <string-array name="AssessmentSpinner" >
+    <item>Pre-Assessment</item>
+    <item>Objective Assessment</item>
+    <item>Performance Assessment</item>
+</string-array>
+
+</resources>
