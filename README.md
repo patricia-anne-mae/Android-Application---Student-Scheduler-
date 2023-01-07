@@ -45,7 +45,7 @@ C.  Implement a scheduler within your application from Part A and include the fo
   •  three activities
   •  events (e.g., a click event)
   •  the ability to work in portrait and landscape layout
-   •  interactive capability (e.g., the ability to accept and act upon user input)
+  •  interactive capability (e.g., the ability to accept and act upon user input)
   •  a database to store and retrieve application data
   •  an application title and an icon
   •  notifications or alerts
